@@ -1,10 +1,48 @@
 DOUR
 
 Exercice 1. Introduction à Maven
+1- Done
+2- Done
+3- Done
 4- mvn -v : permet de vérifer la version de Maven
 5- groupId : identifiant unique du projet.
    artifactId : nom de la bibliotheque (jar) sans la version
 6- On y trouve les classes des bibliothèqes importé par les dépendances Maven
-7- Build Failure
-8- Build Failure
-9-
+7- Done
+8- Le chemin relatif de la classe
+9- Done
+10- Done
+11- Done
+12- Done
+13- Maven.copiler.target sert à notifier la version de java après compilation destination.
+
+Exercice 2. Archives JAR et Maven JAR Plugin
+1- Done, sous le nom td00-1.0-SNAPSHOT
+   no main manifest attribute, in target/td00-1.0-SNAPSHOT.jar
+2- Done
+3- Done
+4- Done
+
+Exercice 3. Maven et Eclipse
+1- Done
+2- Done
+3- syso + ctrl espace nous permet de faire des raccourcies, et nous propose la version complete de system.out.println
+4- toStr + ctrl espace nous permet de faire des raccourcies, et nous propose la version complete de la methode toString
+5- main + ctrl espace nous permet de faire des raccourcies, et nous propose la version complete de la methode main
+6- set ou get + ctrl espace nous propose les getters et les setters des attributs
+7- Outil Refactor
+8- Ca ouvre les classes associés
+
+Exercice 4. Recherche de nombres premiers
+All done
+
+TD00bis
+Exercice 1. Git en ligne commande
+1- Done
+2- Done
+3- Done
+4- Done
+5- Il m'affiche les modifications effectuées
+6- 
+
+

@@ -49,7 +49,18 @@ Exercice 1. Git en ligne commande
 9- Done
 10- Done
 
-Exercice 2. Exercice 2. Syncrhonization de depots Git
+Exercice 2. Syncrhonization de depots Git
 Modification dans le clone
+1- Done
+2- Done
+3- Par un remote/ ... 
+4- Done
+5- Il y a un conflit entre le dépot et le local, le local n'est pas à jour
+6- Il contient les dernière modification avec les différences à exécuter.
+7- La différence entre le local et le dépot donne lieu à un conflit, il faudra les modifier à la main
+8- Done
 
-
+Exercice 3. JUnit
+1- Done
+2- Une visualisation JUnit apparait avec une barre verte signifiant ue les test sont passé. Après modification ce dernier devient rouge. car résultat innatendu. (role de l'assertTrue)
+3- 

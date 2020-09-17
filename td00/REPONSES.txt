@@ -1,0 +1,10 @@
+DOUR
+
+Exercice 1. Introduction à Maven
+4- mvn -v : permet de vérifer la version de Maven
+5- groupId : identifiant unique du projet.
+   artifactId : nom de la bibliotheque (jar) sans la version
+6- On y trouve les classes des bibliothèqes importé par les dépendances Maven
+7- Build Failure
+8- Build Failure
+9-

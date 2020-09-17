@@ -43,6 +43,13 @@ Exercice 1. Git en ligne commande
 3- Done
 4- Done
 5- Il m'affiche les modifications effectuées
-6- 
+6- Done
+7- Done
+8- Done
+9- Done
+10- Done
+
+Exercice 2. Exercice 2. Syncrhonization de depots Git
+Modification dans le clone
 
 
